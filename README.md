@@ -39,8 +39,8 @@ In your Discord server, use the command !ask <your_question> to interact with th
 
 # Notes:
 
-Replace 'YOUR OPENAI API KEY GOES HERE' with your actual OpenAI API key.
-Replace 'YOUR DISCORD BOT TOKEN GOES HERE' with the token you obtained from the Discord Developer Portal.
+Replace 'OPENAI_API_KEY' with your actual OpenAI API key.
+Replace 'DISCORD_TOKEN' with the token you obtained from the Discord Developer Portal.
 
 This basic setup allows you to showcase a Discord bot that interacts with ChatGPT. You can enhance and customize the bot based on your preferences and add more features as needed.
 
