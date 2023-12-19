@@ -18,7 +18,7 @@ with open(file, "r") as f:
   chat = f.read() 
 
 openai.api_key = os.getenv("OPENAI_API_KEY")
-token = os.getenv("SECRET_KEY")
+token = os.getenv("DISCORD_TOKEN")
 
 class MyClient(discord.Client):
     async def on_ready(self):
